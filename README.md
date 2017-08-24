@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Repository of [Redux Course](https://www.udemy.com/react-redux/)?
+Repository of [Redux Course](https://www.udemy.com/react-redux/)
 
 
 ```
